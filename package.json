@@ -1,5 +1,5 @@
 {
-  "homepage": "https://zoe-cough.github.io/tipsDatasetDashboard/"
+  "homepage": "https://zoe-cough.github.io/tipsDatasetDashboard/",
   "name": "app3",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "start": "react-scripts start",
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
-    "build": "react-scripts build",
+    "build":"react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
